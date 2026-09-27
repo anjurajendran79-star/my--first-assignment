@@ -1,2 +1,12 @@
-# my--first-assignment
-my first assignmen tin data analysis
+Excel syntax used
+SUM: =SUM(D2:D35)
+COUNT:=COUNTA(B2:B35)
+AVERAGE:  =AVERAGE(D2:D35)
+MINIMUM VALUE:  =MIN(D2:D35)
+MAXIMUM VALUE :  =MAX(D2:D35)
+IF :  =IF(E2>500,"HIGH PRICE","STANDARD PRICE")
+SUM IF (G2:G35,"Electronics",E2:E35)
+COUNT IF : =COUNTIF(D2:D35,"<100")
+LEFT: =LEFT(A2,2)
+RIGHT:=RIGHT(A2,2)
+MID:   =MID(A2,4,3)
